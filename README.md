@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ManuelJesus2006
+- 👀 I’m interested in Videogames, streaming and in the beginning of coding learning
+- 🌱 I’m currently learning a Profesional Training of development of multiplatform apps (in Spain)
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love making apps but i like more living the actual life :)
