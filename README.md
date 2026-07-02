@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ManuelJesus2006
-- 👀 I’m interested in Videogames, streaming and mobile development with Flutter and Kotlin (learning Kotlin right now)
-- 🌱 I’m currently learning a Profesional Training of development of multiplatform apps (in Spain)
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in Videogames, streaming and mobile development with strong knowledge of Flutter and currently learning Kotlin, BackEnd with NestJS
+- 🌱 I have a degree on Profesional Training of development of multiplatform apps (in Spain)
 - ⚡ Fun fact: I love making apps but i like more living the actual life :)
