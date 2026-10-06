@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ManuelJesus2006
-- 👀 I’m interested in Videogames, streaming and mobile development with strong knowledge of Flutter and currently learning Kotlin, BackEnd with NestJS
+- 👀 I’m interested in Videogames, streaming and mobile development with strong knowledge of Flutter, BackEnd with NestJS and currently learning Kotlin, C#. Unity and Blender
 - 🌱 I have a degree on Profesional Training of development of multiplatform apps (in Spain)
 - ⚡ Fun fact: I love making apps but i like more living the actual life :)
